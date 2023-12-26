@@ -1,0 +1,14 @@
+{
+  "name": "ghsync",
+  "version": "1.0.0",
+  "description": "a cli tool to sync local git project to github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepanshu Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
